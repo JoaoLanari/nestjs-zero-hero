@@ -1,0 +1,5 @@
+server:
+  origin: any_origin
+
+db:
+  synchronize: false
